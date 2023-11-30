@@ -3,8 +3,8 @@ public class SubtractTwoNumbers {
     public static void main(String[] args) {
          
         // declare and initialize two integer numbers
-        int x=70;
-        int y=40;
+        int x=10;
+        int y=20;
  
         // declare another variable to hold the substracted value
         int subtract;
