@@ -5,7 +5,6 @@ public class SubtractTwoNumbers {
         // declare and initialize two integer numbers
         int x=10;
         int y=40;
- 
         // declare another variable to hold the substracted value
         int subtract;
  
